@@ -1,3 +1,4 @@
+![_f3d7ecd9-7fcb-4067-9012-bbaa30185770](https://github.com/MiChaelinzo/13.56-Mhz-Plasma-Generation/assets/68110223/1566d8fd-f1a7-4132-8e56-93b78a7d6f18)
 Generating plasma with a 13.56 MHz frequency involves using **RF (radio-frequency) power** to excite a gas within a chamber, creating a plasma state. Here's a simplified step-by-step guide on how you might do it:
 
 1. **Prepare the Chamber**:
