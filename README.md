@@ -5,8 +5,8 @@ Generating plasma with a 13.56 MHz frequency involves using **RF (radio-frequenc
    - Install **electrodes** inside the chamber; these will be connected to the RF power source.
 
 2. **Connect the RF Generator**:
-   - Use an **RF generator** that operates at **13.56 MHz**¹.
-   - The generator should have an **auto-matching network** to adjust the impedance for maximum power transfer².
+   - Use an **RF generator** that operates at **13.56 MHz**.
+   - The generator should have an **auto-matching network** to adjust the impedance for maximum power transfer.
 
 3. **Evacuate the Chamber**:
    - Use a **vacuum pump** to remove air from the chamber, reducing the pressure to the desired level for plasma generation.
@@ -16,7 +16,7 @@ Generating plasma with a 13.56 MHz frequency involves using **RF (radio-frequenc
 
 5. **Initiate the Plasma**:
    - Turn on the RF generator to apply power to the electrodes.
-   - The **capacitive or inductive coupling** between the electrodes will excite the gas, creating plasma³.
+   - The **capacitive or inductive coupling** between the electrodes will excite the gas, creating plasma.
 
 6. **Monitor and Adjust**:
    - Monitor the chamber conditions, including **pressure**, **gas flow**, and **RF power**.
@@ -29,7 +29,7 @@ Generating plasma with a 13.56 MHz frequency involves using **RF (radio-frequenc
 
 Remember, generating plasma is a complex process that requires specialized equipment and knowledge of RF systems, vacuum technology, and plasma physics. If you're new to this, it's best to consult with experts or work under supervision in a laboratory setting. 🔬🛠️
 
-Source: Conversation with Copilot, 5/30/2024
+References and Bibliography: 
 (1) Compact 300W Auto-matched RF Generator for DIY Plasma Coating with .... https://www.mtixtl.com/300WAuto-matchedRFGenerator.aspx.
 (2) 13.56 MHz RF Plasma Generator and Matching Network System - tcpower. https://www.tcpowerconversion.com/rfplasmasystems.
 (3) Plasma Generators Selection Guide: Types, Features, Applications .... https://www.globalspec.com/learnmore/electrical_electronic_components/power_supplies_conditioners/plasma_generators.
