@@ -1,0 +1,11 @@
+//Here's a basic representation of the process in pseudocode:
+
+initialize_vacuum_chamber()
+connect_rf_generator(frequency=13.56_MHz)
+evacuate_chamber()
+introduce_gas(type=argon, flow_rate=controlled)
+turn_on_rf_generator()
+monitor_chamber_conditions()
+adjust_settings_as_needed()
+ensure_safety_precautions()
+
